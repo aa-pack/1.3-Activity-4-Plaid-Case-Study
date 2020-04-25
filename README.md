@@ -14,5 +14,6 @@ Below are our answers for the Plaid Case Study. We used the questions from the p
 
 ![Plaid](plaid-logo.png)
 
-[Answers 1](answers.txt)
-[Answers 2](answers2.txt)
+- [Answers 1](answers.txt)
+
+- [Answers 2](answers2.txt)
