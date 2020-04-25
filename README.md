@@ -10,7 +10,7 @@ Below are our answers for the Plaid Case Study. We used the questions from the p
 - J Hollie Jr
 - Aaron Packard
 
-###Plaid Case Study
+### Plaid Case Study
 
 ![Plaid](plaid-logo.png)
 
