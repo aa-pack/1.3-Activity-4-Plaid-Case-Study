@@ -1,9 +1,12 @@
-What is the background of Plaid?
+#Plaid case study questions
+##Saturday 4.25.20
+###
+**What is the background of Plaid?**
 Plaid is a financial services company that was started in May of 2013.  The founding members were Zach Perrt and William Hockey
-
-What do they do?
+---
+**What do they do?**
 They build data transfer networks that allow users to interact with their bank accounts, balances, and make payments
-
-Who are their competitors?
-The following FinTech companies are their direct competition.  N26, Codat, Xignite, and Varo money
+---
+**Who are their competitors?**
+The following FinTech companies are their direct competition. * N26, Codat, Xignite, and Varo money*
 
