@@ -12,4 +12,5 @@ Below are our answers for the Plaid Case Study. We used the questions from the p
 
 ###Plaid Case Study
 
+![Plaid](plaid-logo.png)
 
